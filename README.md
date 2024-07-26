@@ -23,3 +23,5 @@ This project focuses on analyzing advertising expenditures (TV, Radio, Newspaper
 2. **Regression Line Visualization:** Plotted a linear regression line including all variables (TV, Radio, Newspaper) to predict sales and visualized model predictions.
 3. **Normalization Impact:** Compared the performance of the linear regression model before and after normalization.
 
+## Finlatics Case Project
+
