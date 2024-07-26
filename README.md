@@ -13,7 +13,7 @@ This project focuses on analyzing advertising expenditures (TV, Radio, Newspaper
 
 ## Experience Gained
 
-- **Data Cleaning:** Techniques for handling missing values and normalizing data.
+- **Data Cleaning:** Techniques for handling missing values, including MCAR analysis to decide between imputation and exclusion.
 - **Exploratory Data Analysis (EDA):** Insights from correlation analysis and data visualization.
 - **Model Evaluation:** Assessment and comparison of regression models' performance.
 
